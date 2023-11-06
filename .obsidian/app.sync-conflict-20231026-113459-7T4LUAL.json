@@ -1,0 +1,14 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "Attachments",
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true,
+  "spellcheckLanguages": null,
+  "useTab": true,
+  "newFileLocation": "current",
+  "readableLineLength": true,
+  "focusNewTab": true,
+  "showInlineTitle": true,
+  "spellcheck": false,
+  "showUnsupportedFiles": true
+}

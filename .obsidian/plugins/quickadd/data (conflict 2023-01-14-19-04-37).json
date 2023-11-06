@@ -1,0 +1,26 @@
+{
+  "choices": [],
+  "macros": [
+    {
+      "name": "Move Completed Tasks",
+      "id": "3bba17bc-757c-43c1-a7f6-dd6a86cebab0",
+      "commands": [
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "30774448-0c16-448b-b709-17c349dbf771",
+          "time": 10000
+        },
+        {
+          "name": "Task Collector (TC): Move all completed tasks to configured heading",
+          "type": "Obsidian",
+          "id": "4f6a543c-1027-46a7-a0a5-fadb0fdf8a6b",
+          "commandId": "obsidian-task-collector:task-collector-move-completed-tasks"
+        }
+      ],
+      "runOnStartup": true
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false
+}

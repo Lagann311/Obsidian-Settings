@@ -1,0 +1,286 @@
+{
+  "main": {
+    "id": "299fb4de5862072b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce561f11f1dba46d",
+        "type": "tabs",
+        "dimension": 63.899613899613904,
+        "children": [
+          {
+            "id": "e2b0df69082bd324",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3f268c9ca137bf45",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b6c1926773f08641",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "697a5ad33ae5a22c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "1a81dc8df806fd61",
+        "type": "tabs",
+        "dimension": 36.1003861003861,
+        "children": [
+          {
+            "id": "958bca291e3d61b3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5990be88c16e38c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6eee1ea1ef7ac2d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d4479f00468943d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "af2c8728f7189cd2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Assignment",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37844d8262296498",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "8325abb53a8885d1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "50414f31e4f681a7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5
+  },
+  "right": {
+    "id": "2c891b948947dc15",
+    "type": "split",
+    "children": [
+      {
+        "id": "840df625e65279d3",
+        "type": "tabs",
+        "dimension": 40.18099547511312,
+        "children": [
+          {
+            "id": "1e0a72fa0e4c8fa1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "1b8a114bd91a2271",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f9c86ecd575d9cc6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "9d18af0c20a83afd",
+        "type": "tabs",
+        "dimension": 36.742081447963805,
+        "children": [
+          {
+            "id": "4fa65301a0612274",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f393321188d99efa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ed8623fa8c021d9e",
+        "type": "tabs",
+        "dimension": 23.076923076923077,
+        "children": [
+          {
+            "id": "ca4aeb37f55e0557",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 320.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "697a5ad33ae5a22c",
+  "lastOpenFiles": [
+    "Attachments/Pasted image 20231020181233.png",
+    "Home.md",
+    "Attachments/Pasted image 20231020182752.png",
+    "Obsidian Doc/Obsidian-Syntax.md",
+    "Code/Unity/Editor Scripting/Gizmos/OnDrawGizmos().md",
+    "Code/Unity/Editor Scripting/Field Attributes/Slider.md",
+    "Code/CSharp/Statements/Switch Statement.md",
+    "Code/CSharp/OOP/Inheritance/Downcasting.md",
+    "Code/Unity/Editor Scripting/Untitled.md",
+    "Code/Unity/Editor Scripting/Gizmos/Gizmos.md",
+    "Code/Unity/Editor Scripting/Field Attributes/Pasted image 20231003183841.png.md",
+    "Attachments/Labor_Games_Präsentation.png",
+    "Studium/Labor Games/Protokoll.md",
+    "Studium/Labor Games",
+    "Studium/Datenanalyse/Allgemein.md",
+    "Studium/Datenanalyse",
+    "Code/Unity/Other",
+    "Code/Unity/Untitled",
+    "Obsidian Doc/Plugins/Untitled.md",
+    "Obsidian Doc/Plugins/Execute Code.md",
+    "Obsidian Doc/Plugins",
+    "Code/Powershell/Test.md",
+    "Code/Powershell/tes.ps1",
+    "Code/Powershell/SyncObsidianSettings.ps1",
+    "Code/Powershell",
+    "Code/CSharp/Roadmap.md",
+    "Code/CSharp/Convention.canvas",
+    "Code/CSharp/Variables/Variables.md",
+    "Code/CSharp/Variables/Var.md",
+    "Code/CSharp/Variables/Target Typed New Expressions.md",
+    "Code/CSharp/Variables/Ref Returns.md",
+    "Code/CSharp/Variables/Ref Locals.md",
+    "Code/CSharp/Variables/Parameters.md",
+    "Code/CSharp/Variables/Local Variables.md",
+    "Code/CSharp/Variables/Default Values.md",
+    "Code/CSharp/Variables",
+    "Code/CSharp/Types/Value Types/Numeric Types/Integral Types/Integral Types.md",
+    "Code/CSharp/Types/Value Types/Numeric Types/Special Float & Double Values.md",
+    "Code/CSharp/Types/Value Types/Numeric Types/Integral Types",
+    "99 Attachments/Pasted image 20230806180138.png",
+    "99 Attachments/Pasted image 20230806173948.png",
+    "Code/Other/Final Battle/Program Structure.canvas",
+    "Studium/Games Engineering/Unity/Projekte/Arkanoid.canvas",
+    "99 Attachments/23-03-30_Unity_x.gif",
+    "99 Attachments/Unity_82KmpwE0w7.gif",
+    "99 Attachments/Pasted image 20230328203536.png",
+    "99 Attachments/Pasted image 20230328202332.png",
+    "99 Attachments/Pasted image 20230328201156.png",
+    "Sport/Dehnung.canvas"
+  ]
+}

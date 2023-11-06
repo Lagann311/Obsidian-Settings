@@ -1,0 +1,159 @@
+{
+  "choices": [
+    {
+      "id": "b541ded4-4f80-4337-b7f0-403e6857af2d",
+      "name": "test",
+      "type": "Template",
+      "command": false,
+      "templatePath": "",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    }
+  ],
+  "macros": [
+    {
+      "name": "Move Completed Tasks",
+      "id": "3bba17bc-757c-43c1-a7f6-dd6a86cebab0",
+      "commands": [
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "30774448-0c16-448b-b709-17c349dbf771",
+          "time": 5000
+        },
+        {
+          "name": "Task Collector (TC): Move all completed tasks to configured heading",
+          "type": "Obsidian",
+          "id": "4f6a543c-1027-46a7-a0a5-fadb0fdf8a6b",
+          "commandId": "obsidian-task-collector:task-collector-move-completed-tasks"
+        }
+      ],
+      "runOnStartup": true
+    },
+    {
+      "name": "Insert recurring Tasks",
+      "id": "11675feb-bb98-450e-9793-234c3d4febff",
+      "commands": [
+        {
+          "name": "Untitled Capture Choice",
+          "type": "NestedChoice",
+          "id": "13fc3928-136e-41f1-9e1d-7ecdc0d35c02",
+          "choice": {
+            "id": "2d9c6ad0-cf4b-4e0f-a0ac-2be10266b99e",
+            "name": "Untitled Capture Choice",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "Tasks.md",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": false,
+              "format": ""
+            },
+            "insertAfter": {
+              "enabled": false,
+              "after": "",
+              "insertAtEnd": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Insert CSharp Code Block",
+      "id": "a2bebacf-0d0e-4d33-b2fa-a6f31392d4c6",
+      "commands": [
+        {
+          "name": "Untitled Template Choice",
+          "type": "NestedChoice",
+          "id": "a7807555-cdb1-4542-ab31-94424a09cc93",
+          "choice": {
+            "id": "9b89e07e-4112-4bbe-8b7f-cf14e39984f9",
+            "name": "Untitled Template Choice",
+            "type": "Template",
+            "command": false,
+            "templatePath": "",
+            "fileNameFormat": {
+              "enabled": false,
+              "format": ""
+            },
+            "folder": {
+              "enabled": false,
+              "folders": [],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false,
+              "chooseFromSubfolders": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default",
+            "fileExistsMode": "Increment the file name",
+            "setFileExistsBehavior": false
+          }
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "",
+  "announceUpdates": true,
+  "version": "1.2.1",
+  "disableOnlineFeatures": true,
+  "ai": {
+    "OpenAIApiKey": "",
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
+  }
+}

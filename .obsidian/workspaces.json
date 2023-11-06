@@ -1,0 +1,264 @@
+{
+  "workspaces": {
+    "CSharp_In_A_Nutshell": {
+      "main": {
+        "id": "299fb4de5862072b",
+        "type": "split",
+        "children": [
+          {
+            "id": "86197f48fc260f15",
+            "type": "tabs",
+            "dimension": 38.42710997442455,
+            "children": [
+              {
+                "id": "ac5e19a1553581a2",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Code/CSharp/General/Abbreviations.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "ce165b7bfe99f649",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Code/CSharp/General/CSharp Characteristics.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          },
+          {
+            "id": "b0868ad7f49aea83",
+            "type": "tabs",
+            "dimension": 61.57289002557545,
+            "children": [
+              {
+                "id": "1c4fec18fd0fe8ad",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "PDFs/CSharp-in-a-nutshell.pdf"
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "7e508c714e2f8960",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Code/CSharp/Roadmap.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "559c8993de6a562a",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Obsidian Doc/Obsidian-Syntax.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "d5990be88c16e38c",
+        "type": "split",
+        "children": [
+          {
+            "id": "6eee1ea1ef7ac2d0",
+            "type": "tabs",
+            "dimension": 67.7536231884058,
+            "children": [
+              {
+                "id": "0d4479f00468943d",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "af2c8728f7189cd2",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "37844d8262296498",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "5b58620feb449ea3",
+            "type": "tabs",
+            "dimension": 32.2463768115942,
+            "children": [
+              {
+                "id": "8325abb53a8885d1",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 239.5
+      },
+      "right": {
+        "id": "2c891b948947dc15",
+        "type": "split",
+        "children": [
+          {
+            "id": "840df625e65279d3",
+            "type": "tabs",
+            "dimension": 40.18099547511312,
+            "children": [
+              {
+                "id": "1e0a72fa0e4c8fa1",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Code/CSharp/General/Abbreviations.md"
+                  }
+                }
+              },
+              {
+                "id": "1b8a114bd91a2271",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "9d18af0c20a83afd",
+            "type": "tabs",
+            "dimension": 36.742081447963805,
+            "children": [
+              {
+                "id": "4fa65301a0612274",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Code/CSharp/General/Abbreviations.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "f393321188d99efa",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Code/CSharp/General/Abbreviations.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "ed8623fa8c021d9e",
+            "type": "tabs",
+            "dimension": 23.076923076923077,
+            "children": [
+              {
+                "id": "ca4aeb37f55e0557",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "homepage:Open homepage": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "ac5e19a1553581a2"
+    }
+  },
+  "active": "CSharp_In_A_Nutshell"
+}

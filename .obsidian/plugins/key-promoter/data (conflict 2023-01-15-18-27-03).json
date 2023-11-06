@@ -1,0 +1,19 @@
+{
+  "showUnassigned": true,
+  "showAssigned": true,
+  "threshold": 0,
+  "notificationTimeout": 5,
+  "template": "{{commandId}} - {{commandName}} - {{hotkey}}",
+  "descriptionOfActions": false,
+  "mouseStatistics": {
+    "obsidian-task-collector:task-collector-mark-done": 1,
+    "obsidian-task-collector:task-collector-mark": 1,
+    "obsidian-task-collector:task-collector-mark-reset": 1,
+    "obsidian-task-collector:task-collector-move-completed-tasks": 1,
+    "obsidian-task-collector:task-collector-mark-all-done": 1,
+    "obsidian-task-collector:task-collector-clear-all-items": 1
+  },
+  "keyboardStatistics": {
+    "obsidian-task-collector:task-collector-move-completed-tasks": 6
+  }
+}

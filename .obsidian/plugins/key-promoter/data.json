@@ -1,0 +1,31 @@
+{
+  "showUnassigned": true,
+  "showAssigned": true,
+  "threshold": 0,
+  "notificationTimeout": 5,
+  "template": "{{commandId}} - {{commandName}} - {{hotkey}}",
+  "descriptionOfActions": false,
+  "mouseStatistics": {
+    "obsidian-minimal-settings:cycle-minimal-table-width": 1,
+    "obsidian-minimal-settings:cycle-minimal-image-width": 1,
+    "obsidian-minimal-settings:cycle-minimal-iframe-width": 1,
+    "obsidian-minimal-settings:cycle-minimal-chart-width": 1,
+    "obsidian-minimal-settings:cycle-minimal-map-width": 1,
+    "obsidian-git:commit-staged": 1,
+    "obsidian-git:commit-staged-specified-message": 1,
+    "obsidian-git:push2": 2,
+    "obsidian-excalidraw-plugin:reset-image-to-100": 2,
+    "workspace:export-pdf": 1,
+    "editor:rename-heading": 1,
+    "canvas:convert-to-file": 1,
+    "note-composer:merge-file": 1,
+    "note-composer:split-file": 1,
+    "note-composer:extract-heading": 1,
+    "bookmarks:bookmark-current-view": 1,
+    "bookmarks:bookmark-current-search": 1,
+    "bookmarks:bookmark-current-section": 1,
+    "bookmarks:bookmark-current-heading": 1,
+    "bookmarks:bookmark-all-tabs": 1
+  },
+  "keyboardStatistics": {}
+}

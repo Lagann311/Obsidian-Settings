@@ -1,0 +1,32 @@
+{
+  "showUnassigned": true,
+  "showAssigned": true,
+  "threshold": 0,
+  "notificationTimeout": 5,
+  "template": "{{commandId}} - {{commandName}} - {{hotkey}}",
+  "descriptionOfActions": false,
+  "mouseStatistics": {
+    "app:delete-file": 10,
+    "editor:delete-paragraph": 10,
+    "obsidian-excalidraw-plugin:delete-file": 10,
+    "obsidian-git:delete-repo": 10,
+    "obsidian-git:delete-branch": 10,
+    "file-explorer:new-file": 1,
+    "workspace:edit-file-title": 3,
+    "editor:rename-heading": 3,
+    "workspace:undo-close-pane": 2,
+    "workspace:close": 2,
+    "workspace:close-window": 3,
+    "workspace:close-others": 2,
+    "obsidian-git:backup-and-close": 2,
+    "obsidian-task-collector:task-collector-mark-done": 1,
+    "obsidian-task-collector:task-collector-mark": 1,
+    "obsidian-task-collector:task-collector-mark-reset": 1,
+    "obsidian-task-collector:task-collector-move-completed-tasks": 1,
+    "obsidian-task-collector:task-collector-mark-all-done": 1,
+    "obsidian-task-collector:task-collector-clear-all-items": 1
+  },
+  "keyboardStatistics": {
+    "obsidian-task-collector:task-collector-move-completed-tasks": 6
+  }
+}

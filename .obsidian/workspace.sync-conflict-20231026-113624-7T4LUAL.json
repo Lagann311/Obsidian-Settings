@@ -1,0 +1,413 @@
+{
+  "main": {
+    "id": "299fb4de5862072b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce561f11f1dba46d",
+        "type": "tabs",
+        "dimension": 48.62068965517241,
+        "children": [
+          {
+            "id": "3f268c9ca137bf45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code/Unity/2D/Packages/2D Animation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d95636893d405178",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code/Unity/2D/Packages/2D Pixel Perfect.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a9322326406275f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code/Unity/2D/Packages/2D PSD Importer.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2fe3dd8c25d9d995",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code/Unity/2D/Packages/2D Sprite.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2de701a23b65eb86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code/Unity/2D/Packages/2D SpriteShape.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d06a91c5a09d4dda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studium/Bachelor Thesis/CAN/Concepts/Information Routing.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51237269eb3461c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studium/Bachelor Thesis/CAN/Concepts/Multimaster.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f469bf07b35e79d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studium/Bachelor Thesis/CAN/Layers/Object Layer.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3cb522a77043ef55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code/Unity/2D/Animation/Frame-By-Frame.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69845caf88ffe22e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code/Unity/2D/Categories/Game Perspectives/Side-On.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "79162dbfde256342",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code/Unity/2D/Categories/Game Perspectives/Top-Down.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "d723ac5b534c4086",
+        "type": "tabs",
+        "dimension": 51.37931034482759,
+        "children": [
+          {
+            "id": "ae25266ef4544b40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Doc/Obsidian-Syntax.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4165d26f9bf5df94",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Studium/Bachelor Thesis/CAN/Resources/can20.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5990be88c16e38c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6eee1ea1ef7ac2d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d4479f00468943d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "af2c8728f7189cd2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Assignment",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37844d8262296498",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "8325abb53a8885d1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.5
+  },
+  "right": {
+    "id": "2c891b948947dc15",
+    "type": "split",
+    "children": [
+      {
+        "id": "840df625e65279d3",
+        "type": "tabs",
+        "dimension": 40.18099547511312,
+        "children": [
+          {
+            "id": "1e0a72fa0e4c8fa1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Studium/Bachelor Thesis/CAN/Concepts/Multimaster.md"
+              }
+            }
+          },
+          {
+            "id": "1b8a114bd91a2271",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f9c86ecd575d9cc6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "9d18af0c20a83afd",
+        "type": "tabs",
+        "dimension": 36.742081447963805,
+        "children": [
+          {
+            "id": "4fa65301a0612274",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Studium/Bachelor Thesis/CAN/Concepts/Multimaster.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f393321188d99efa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Studium/Bachelor Thesis/CAN/Concepts/Multimaster.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ed8623fa8c021d9e",
+        "type": "tabs",
+        "dimension": 23.076923076923077,
+        "children": [
+          {
+            "id": "ca4aeb37f55e0557",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 320.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false,
+      "publish:Publish changes...": false,
+      "code-files:Create Code File": false
+    }
+  },
+  "active": "51237269eb3461c9",
+  "lastOpenFiles": [
+    "Studium/Bachelor Thesis/CAN/Concepts/Remote Data Request.md",
+    "Studium/Bachelor Thesis/CAN/Concepts/Multimaster.md",
+    "Studium/Bachelor Thesis/CAN/Concepts/Priorities.md",
+    "Studium/Bachelor Thesis/CAN/Concepts/Bitrate.md",
+    "Studium/Bachelor Thesis/CAN/Concepts/Information Routing.md",
+    "Studium/Bachelor Thesis/CAN/Resources/Node.md",
+    "Studium/Bachelor Thesis/CAN/Concepts/Node.md",
+    "Studium/Bachelor Thesis/CAN/Concepts/Message.md",
+    "Studium/Bachelor Thesis/CAN/Concepts/Message Filtering.md",
+    "Studium/Bachelor Thesis/CAN/Layers/Transfer Layer.md",
+    "Studium/Bachelor Thesis/CAN/Layers/Physical Layer.md",
+    "Studium/Bachelor Thesis/CAN/Layers/Object Layer.md",
+    "Studium/Bachelor Thesis/CAN/Layers/Application Layer.md",
+    "Studium/Bachelor Thesis/CAN/Concepts",
+    "Studium/Bachelor Thesis/CAN/CAN.md",
+    "Studium/Bachelor Thesis/CAN/Resources/can20.pdf",
+    "Obsidian Doc/Obsidian-Syntax.md",
+    "Attachments/Pasted image 20231023222113.png",
+    "Studium/Bachelor Thesis/CAN/Layers",
+    "Studium/Bachelor Thesis/CAN/Concepts/Identifier.md",
+    "Code/Unity/2D/Animation/Skeletal.md",
+    "Studium/Bachelor Thesis/CAN/Resources",
+    "Studium/Bachelor Thesis/CAN",
+    "Studium/Bachelor Thesis",
+    "Attachments/quickstart-skeletal-2d.png",
+    "Code/Unity/2D/Animation/Cutout.md",
+    "Attachments/quickstart-cutout-2d.png",
+    "Code/Unity/2D/Animation/Frame-By-Frame.md",
+    "Attachments/quickstart-frame-by-frame-2d.png",
+    "Code/Unity/2D/Packages/2D Tilemap Extras.md",
+    "Code/Unity/2D/Animation",
+    "Code/Unity/2D/Graphics/Sprite Atlas.md",
+    "Code/Unity/2D/Graphics/Sprites.md",
+    "Code/Unity/2D/Packages/2D Tilemap Editor.md",
+    "Code/Unity/Scripting",
+    "Code/Unity/2D/Packages/2D SpriteShape.md",
+    "Code/Unity/2D/Packages/2D Sprite.md",
+    "Code/Unity/2D/Packages/2D PSD Importer.md",
+    "Code/Unity/2D/Packages",
+    "Attachments/quickstart-pre-rendered-2d.png",
+    "Attachments/quickstart-illustrative-2d.png",
+    "Attachments/quickstart-pixel-art-2d.png",
+    "Attachments/quickstart-mini-metro-minimalist.png",
+    "Code/Unity/2D/Categories/Art Styles",
+    "Attachments/quickstart-isometric-2d.png",
+    "Attachments/quickstart-side-scroller-2d.png",
+    "Code/CSharp/Convention.canvas",
+    "Code/Other/Final Battle/Program Structure.canvas",
+    "Studium/Games Engineering/Unity/Projekte/Arkanoid.canvas",
+    "Sport/Dehnung.canvas"
+  ]
+}
